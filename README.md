@@ -1,3 +1,2 @@
 # Snackbar
-my snackbar app in android
-march 18 / 2018
+A simple app to use Snackbar (android) follow comments step by step. I've used kotlin in this app.
